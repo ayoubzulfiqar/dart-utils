@@ -13,3 +13,5 @@ Some of my own implementations that i implement according to the time of need. A
 - [Equal](extensions/equals.dart)
 - [IsUpperCase](extensions/is_upper_case.dart)
 - [IsLowerCase](extensions/is_lower_case.dart)
+- [Pow](extensions/pow.dart)
+- [ToHex](extensions/to_hex.dart)
