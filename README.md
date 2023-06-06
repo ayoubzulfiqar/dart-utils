@@ -6,6 +6,7 @@ Some of my own implementations that i implement according to the time of need. A
 ## Classes
 
 - [Pair](classes/pair.dart)
+- [BitSet](classes/bit_set.dart)
 
 ## Extensions
 
