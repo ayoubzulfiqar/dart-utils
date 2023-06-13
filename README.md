@@ -16,3 +16,4 @@ Some of my own implementations that i implement according to the time of need. A
 - [IsLowerCase](extensions/is_lower_case.dart)
 - [Pow](extensions/pow.dart)
 - [ToHex](extensions/to_hex.dart)
+- [Equality between Lists](extensions/list_equality.dart)
