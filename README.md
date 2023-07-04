@@ -17,3 +17,4 @@ Some of my own implementations that i implement according to the time of need. A
 - [Pow](extensions/pow.dart)
 - [ToHex](extensions/to_hex.dart)
 - [Equality between Lists](extensions/list_equality.dart)
+- [ToHexColor](extensions/to_color.dart)
